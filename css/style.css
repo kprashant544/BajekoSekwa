@@ -1,0 +1,24 @@
+.container{
+   border: 1px solid red;
+   width: 80%;
+   margin: 2% auto;
+   padding: 4% 0;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    width: 10%;
+    border: 1px solid red;
+}
+
+.menu{
+    float: right;
+}
+
+.menu ul{
+    list-style-type: none;
+}
